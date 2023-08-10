@@ -1,0 +1,54 @@
+{
+ "charts": [],
+ "content": "[{\"id\":\"YO6Rmv0u_y\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\">Hotel Booking</span>\",\"col\":12}},{\"id\":\"Jdmlq4M_5j\",\"type\":\"spacer\",\"data\":{\"col\":12}},{\"id\":\"HT9Ayjhw1V\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Certificate\",\"col\":4}},{\"id\":\"mZIafp7FhH\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Certificate Ticket\",\"col\":4}}]",
+ "creation": "2023-08-10 10:40:20.422130",
+ "custom_blocks": [],
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "for_user": "",
+ "hide_custom": 0,
+ "icon": "organization",
+ "idx": 0,
+ "is_hidden": 0,
+ "label": "Hotel Booking",
+ "links": [
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Certificate Ticket",
+   "link_count": 0,
+   "link_to": "Certificate",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  }
+ ],
+ "modified": "2023-08-10 12:04:49.807873",
+ "modified_by": "Administrator",
+ "module": "Hotel Booking",
+ "name": "Hotel Booking",
+ "number_cards": [],
+ "owner": "Administrator",
+ "parent_page": "",
+ "public": 1,
+ "quick_lists": [],
+ "roles": [],
+ "sequence_id": 22.0,
+ "shortcuts": [
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Certificate Ticket",
+   "link_to": "Certificate Ticket",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Certificate",
+   "link_to": "Certificate",
+   "type": "DocType"
+  }
+ ],
+ "title": "Hotel Booking"
+}
